@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "176917443205",
+    "firebase_url": "https://chat-online-d2e3f.firebaseio.com",
+    "project_id": "chat-online-d2e3f",
+    "storage_bucket": "chat-online-d2e3f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176917443205:android:94fba7c3f899fb42",
+        "android_client_info": {
+          "package_name": "com.example.chat_online"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176917443205-54314mur8pmropnhd7t1dtsp6cd05pgb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chat_online",
+            "certificate_hash": "0942ed92c0d2f83bdffa551936e3492e2f3d27c4"
+          }
+        },
+        {
+          "client_id": "176917443205-ottllj4i6bkg3uaqj1t2pf1so6101pv0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDss6_C_ucqUTkaSYswFMSPC3cJhOVpkZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176917443205-ottllj4i6bkg3uaqj1t2pf1so6101pv0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

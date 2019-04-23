@@ -30,6 +30,8 @@ dependencies:
   google_sign_in: ^3.2.4
   firebase_auth: ^0.8.4+5
   firebase_database: ^1.1.0
+  firebase_storage: ^1.0.4
+  #firebase_storage: ^2.1.0+1
   image_picker: ^0.5.3+2
   #image_picker: ^0.4.12+1
 
